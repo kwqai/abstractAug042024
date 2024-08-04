@@ -1,1 +1,1 @@
-# Steps have been given in this file how to sendfrom local to github.
+# Steps have been given in this file how to push from local to github.
