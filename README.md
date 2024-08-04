@@ -1,0 +1,1 @@
+# Steps have been given in this file how to sendfrom local to github.
